@@ -2094,19 +2094,19 @@ body {
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeeefe;
     }h1, h2, h3, h4, h5, h6 {
-      color: #555;
+      color: #74c0fc;
     }
     
     .archive-timeline-title::before {
-      background-color: #555;
+      background-color: #74c0fc;
     }
     
     .post-title-link::before {
-      background-color: #555;
+      background-color: #74c0fc;
     }
     
     .node-title::before {
-      background-color: #555;
+      background-color: #74c0fc;
     }a {
       color: #555;
     }
