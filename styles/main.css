@@ -2132,9 +2132,9 @@ body {
       border-bottom-color: #c92a2a;
     }
       .nav-item a {
-        color:  #222;
+        color:  #212529;
       }.nav-item a:hover {
-        color: #222;
+        color: #c92a2a;
       }.nav-item-active {
       background: #f9f9f9fe;
     }
