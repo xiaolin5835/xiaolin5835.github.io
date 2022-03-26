@@ -2132,7 +2132,7 @@ body {
       border-bottom-color: #222;
     }
       .nav-item a {
-        color:  #555;
+        color:  #222;
       }.nav-item a:hover {
         color: #222;
       }.nav-item-active {
@@ -2179,13 +2179,13 @@ body {
       background-color: #fffffffe;
     }
       .site-meta {
-        background: #000 !important;
+        background: #228be6 !important;
       }
       .head-top-line {
-        background: #000 !important;
+        background: #228be6 !important;
       }
     .brand {
-      background: #000000fe;
+      background: #15aabffe;
     }
     .main-title, .brand {
       color: #FFF !important;
