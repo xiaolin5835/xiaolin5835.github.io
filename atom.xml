@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiaolin5835.github.io</id>
-    <title>小林的广播小站</title>
-    <updated>2022-03-26T13:26:48.812Z</updated>
+    <title>小林放送局</title>
+    <updated>2022-03-26T13:28:00.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiaolin5835.github.io"/>
     <link rel="self" href="https://xiaolin5835.github.io/atom.xml"/>
     <subtitle>吾生也有涯，而知也无涯</subtitle>
     <logo>https://xiaolin5835.github.io/images/avatar.png</logo>
     <icon>https://xiaolin5835.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 小林的广播小站</rights>
+    <rights>All rights reserved 2022, 小林放送局</rights>
     <entry>
         <title type="html"><![CDATA[一周简报（2022.3.20-3.26）]]></title>
         <id>https://xiaolin5835.github.io/post/yi-zhou-jian-bao-2022320-326/</id>
